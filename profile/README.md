@@ -1,12 +1,8 @@
-## Hi there 👋
+# UTags - Add usertags to links
 
-<!--
+Allow users to add custom tags to links. For example, you can add tags to forum members or posts.
 
-**Here are some ideas to get you started:**
+## Installation
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- UserScript: [https://greasyfork.org/scripts/460718-utags-add-usertags-to-links](https://greasyfork.org/scripts/460718-utags-add-usertags-to-links)
+- Firefox Addon: [https://addons.mozilla.org/firefox/addon/utags/](https://addons.mozilla.org/firefox/addon/utags/)
